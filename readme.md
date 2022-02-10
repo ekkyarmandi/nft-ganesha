@@ -1,6 +1,6 @@
 # Ganesha Random Ganerative NFT
 
-In this project me and Hairil (as the artist) works in team to produce 7,777 collection of Ganesha for NFT purpose.
+In this project me and [Hairil](https://www.upwork.com/o/profiles/users/~015df8753e642d5799/) (as the artist) works in team to produce 7,777 collection of Ganesha for NFT purpose.
 
 I use Inkscape as the drawing software and python programming language with xml tree module, cairosvg, and gtk3 runtime software to do random generate artworks and exporting the svg file as an png.
 
