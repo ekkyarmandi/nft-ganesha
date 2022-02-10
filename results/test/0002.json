@@ -1,0 +1,28 @@
+{
+    "name": "Ganesha #2",
+    "description": "Ganesha is a collection of 7,777 generative arts inspired by one of the best most worshipped deities in the Hindu pantheon.",
+    "image": "./results/test/0002.png",
+    "external_url": "https://example.com",
+    "attributes": [
+        {
+            "trait_type": "Backgrounds",
+            "value": "Magenta"
+        },
+        {
+            "trait_type": "Body",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Accessories",
+            "value": "Necklace"
+        },
+        {
+            "trait_type": "Head Accessories",
+            "value": "Crown"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Brown"
+        }
+    ]
+}

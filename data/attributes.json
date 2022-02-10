@@ -1,0 +1,53 @@
+{
+    "BACKGROUNDS": [
+        "MAGENTA",
+        "BLUE",
+        "LIGHTBLUE"
+    ],
+    "BODY": [
+        "TAN",
+        "GOLD",
+        "RED",
+        "BLUE",
+        "YELLOW"
+    ],
+    "LOWERATTACHMENTS": [
+        "BLACKPANTS",
+        "PINKSARI",
+        "EMPTY"
+    ],
+    "ACCESSORIES": [
+        "ARMACC",
+        "NECKLACE",
+        "FLOWERSTATTOO",
+        "PIERCING",
+        "GOLDNECKLACE",
+        "GOLDRINGS"
+    ],
+    "HANDACCESSORIES": [
+        "WATCH",
+        "FRUIT",
+        "ETH",
+        "CLOVER",
+        "EMPTY"
+    ],
+    "HEADACCESSORIES": [
+        "BLACKHAT",
+        "CROWN",
+        "EMPTY"
+    ],
+    "BODYATTACHEMENTS": [
+        "BLACKLONGTSHIRTS",
+        "HOLYTATTOO",
+        "EMPTY"
+    ],
+    "EYES": [
+        "TYPE1",
+        "TYPE2",
+        "GREEN",
+        "BROWN",
+        "BLINDHALF",
+        "SLITEYED",
+        "TIRED"
+    ]
+}
